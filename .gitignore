@@ -1,0 +1,5 @@
+.vagrant/
+/**/bin/
+/**/packages/
+/**/obj/
+/**/.vs/
